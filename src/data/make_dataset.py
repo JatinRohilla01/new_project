@@ -47,4 +47,4 @@ def main():
 if __name__ == "__main__":
 
     # main() function is only executed when the script is run directly, and not when it is imported as a module.
-    main()class
+    main()
